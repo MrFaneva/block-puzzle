@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Fichiers de score générés par le jeu
+scores.json
+
+# Build
+build/
+dist/
+*.egg-info/
